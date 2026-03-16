@@ -1,4 +1,4 @@
-Hi, I'm Amna Kainat 👋
+Hi, I'm Aamna Kainat 👋
 
 Curious mind | Software Engineering Student | Future Software Engineer
 

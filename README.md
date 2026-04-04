@@ -30,13 +30,13 @@ Curious about technology and passionate about turning ideas into code. I enjoy l
 
 ## 📊 GitHub Stats
 
-![Aamna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Aamna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamna272&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna272&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aamna272&theme=tokyonight)
 
 🌱 Currently learning backend development and building my development skills.
 

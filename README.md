@@ -1,10 +1,12 @@
 <p align="center">
-Hi, I'm Aamna Kainat 👋
+<strong>Hi, I'm Aamna Kainat 👋</strong>
 </p>
 <p align="center">
 Software Engineering Student | Future Software Engineer
 </p>
 Curious about technology and passionate about turning ideas into code. I enjoy learning new tools, improving problem-solving skills, and exploring different areas of software development.
+
+🌱 Currently learning Website development and building my development skills.
 
 🛠️ **Tech**
 
@@ -32,11 +34,12 @@ Curious about technology and passionate about turning ideas into code. I enjoy l
 
 ![Aamna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamna272&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna272&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aamna272&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aamna272&theme=tokyonight)
 
-🌱 Currently learning backend development and building my development skills.
+## 📫 Contact
 
+- Email: [aamnakainat19@gmail.com](mailto:your-email@example.com)  

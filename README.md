@@ -1,58 +1,20 @@
+<p align="center">
 Hi, I'm Aamna Kainat 👋
+</p>
+<p align="center">
+Software Engineering Student | Future Software Engineer
+</p>
+Curious about technology and passionate about turning ideas into code. I enjoy learning new tools, improving problem-solving skills, and exploring different areas of software development.
 
-Curious mind | Software Engineering Student | Future Software Engineer
+### Tech
 
-I enjoy turning ideas into code and exploring different areas of technology.
-Currently learning and experimenting with web development, programming, and problem solving while building small projects to sharpen my skills.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
+Currently learning backend development and building my development skills.
 
- What I'm Learning & Building
-
- Frontend Development
-
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- React
-
- Programming Languages
-
-- Python
-- Java
-- JavaScript
-
-I enjoy writing clean logic, solving problems, and experimenting with different approaches to coding.
-
-
-My Coding Style
-
-Sometimes it's deep focus with algorithms.
-Sometimes it's experimenting with UI.
-And sometimes it's vibe coding - building things just for the fun of learning.
-
-
-🛠 Projects I've Built
-
- React To-Do App
- Java Flight Booking system
- C# chat application 
- Practice programs for logic building
-
-More projects coming as I continue learning and exploring new technologies.
-
-
-🎯 Current Goals
-
-- Improve problem-solving skills
-- Learn backend development
-- Contribute to real-world projects
-
-
-🌱 A Little About My Journey
-
-I believe programming is not just about writing code, it's about thinking logically, solving problems, and continuously learning.
-Every project teaches something new, and every bug solved is progress.
-
-
-Thanks for visiting my profile!
